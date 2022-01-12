@@ -1,4 +1,4 @@
-### Olá, eu sou Davi Siga! 👋
+### Olá, eu sou Davi! 👋
 
 - 🔭 Atualmente trabalhando como desenvolvedor front-end e back-end na plataforma Servicenow ...
 
