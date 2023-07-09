@@ -1,6 +1,6 @@
 ### Olá, eu sou Davi! 👋
 
-- 🔭 Atualmente trabalhando como desenvolvedor front-end e back-end na plataforma Servicenow ...
+- 🔭 Atualmente trabalhando como desenvolvedor front-end e back-end
 
 <div align="center">
   <a href="https://github.com/davisiga">
